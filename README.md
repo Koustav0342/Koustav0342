@@ -1,163 +1,298 @@
 <div align="center">
 
-  <!-- Sleek Gradient Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:3A7BD5&height=140&section=header" width="100%" alt="Header Banner" />
+  <!-- Futuristic ECE / IoT Header -->
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:0B1F3A,75:1261A0,100:00D2FF&height=160&section=header&text=&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Koustav Chatterjee Header" />
 
   <h1>Hi 👋, I'm Koustav Chatterjee</h1>
 
   <!-- Animated Typing Headline -->
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=ECE+Student+%7C+Electronics+%26+Software+Enthusiast+%F0%9F%87%AE%F0%9F%87%B3;Building+RC+Robotic+Cars%2C+Robotic+Hands+%26+ESP32%2FArduino+IoT;Data+Analytics+with+Python%2C+NumPy%2C+Pandas+%26+JupyterLab;DSA+%26+Problem+Solving+in+C%2B%2B%2C+Java%2C+Python;Web+Development+with+JavaScript%2C+React+%26+Node.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=850&lines=ECE+Student+%7C+Electronics+%26+Software+Enthusiast+%F0%9F%87%AE%F0%9F%87%B3;Building+RC+Robotic+Cars%2C+Robotic+Hands+%26+ESP32%2FArduino+IoT;Data+Analytics+with+Python%2C+NumPy%2C+Pandas+%26+JupyterLab;DSA+%26+Problem+Solving+in+C%2B%2B%2C+Java+%26+Python;Web+Development+with+JavaScript%2C+React+%26+Node.js" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
+<br/><br/>
 
-  <!-- Competitive Programming & Social Badges -->
-  <a href="https://linkedin.com/in/koustav-chatterjee" target="_blank">
+  <!-- Social & Competitive Programming -->
+
+  <a href="https://linkedin.com/in/koustav-chatterjee">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.leetcode.com/koustav56" target="_blank">
+  <a href="https://www.leetcode.com/koustav56">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://www.codechef.com/users/koustav5666" target="_blank">
+  <a href="https://www.codechef.com/users/koustav5666">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-  <a href="https://www.hackerrank.com/@koustavchatterj2" target="_blank">
+  <a href="https://www.hackerrank.com/@koustavchatterj2">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
   <a href="mailto:koustavchatterjee531@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
+<br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=koustav0342&label=Profile%20Views&color=00D2FF&style=for-the-badge" alt="Profile Views" />
+
 </div>
 
 <br/>
 
-<hr/>
+👨‍💻 About Me
 
-### 👨‍💻 About Me
+Electronics & Communication Engineering (ECE) student passionate about engineering smart systems at the intersection of hardware, robotics, data, and software. Driven by curiosity, algorithmic problem-solving, hands-on prototyping, and continuous learning.
 
-> Electronics & Communication Engineering (ECE) student passionate about engineering smart systems at the intersection of **hardware, robotics, and intelligent software**. Driven by curiosity, algorithmic problem-solving, and hands-on prototyping.
+⚡ Domain Focus: Embedded Systems, IoT, Robotics, Electronics & Software Development
 
-<br/>
+🔭 Current Builds: RC Robotic Car, Robotic Hand, and ESP32/Arduino-based IoT projects
 
-- ⚡ **Domain Focus**: Bridging physical electronics with digital intelligence through **Embedded Systems, IoT, and Robotics**.
-- 🔭 **Current Builds**: Engineering an autonomous **RC Robotic Car**, a biomimetic **Robotic Hand**, and **ESP32 & Arduino** IoT gateways.
-- 📊 **Data & Analytics**: Conducting exploratory data analysis, data cleaning, and statistical visualization using **Python, Pandas, NumPy, and JupyterLab**.
-- 📚 **Algorithmic Problem Solving**: Practicing Data Structures & Algorithms (DSA) across **C++, Java, and Python** on LeetCode & CodeChef.
-- 🌐 **Web Development**: Designing modern, responsive user interfaces with **JavaScript & React** to monitor real-time hardware telemetry.
-- 🤝 **Collaboration**: Actively open to working on robotics projects, embedded IoT innovations, and software engineering.
-- 💬 **Ask Me About**: `Python`, `DSA`, `Data Analytics`, `React`, `IoT`, `Arduino`, and `ESP32`.
-- 📫 **Direct Reach**: [`koustavchatterjee531@gmail.com`](mailto:koustavchatterjee531@gmail.com) • [`ckoustav39@gmail.com`](mailto:ckoustav39@gmail.com)
-- ⚡ **Fun Fact**: *I enjoy turning raw electronic components and circuits into smart, living projects with code and hardware.*
+📊 Data & Analytics: Python, Pandas, NumPy, JupyterLab, data cleaning, exploratory analysis & visualization
 
-<br/>
+📚 DSA & Problem Solving: Practicing C++, Java & Python through competitive programming and coding platforms
 
-<hr/>
+🌐 Web Development: JavaScript, React, Node.js and responsive web technologies
 
-### 🛠️ Technical Arsenal
+🤖 Hardware: Arduino, ESP32, sensors, motor control and robotics prototyping
 
-<br/>
+💬 Ask Me About: Python DSA Data Analytics React IoT Arduino ESP32
+
+📫 Email: koustavchatterjee531@gmail.com • ckoustav39@gmail.com
+
+⚡ Fun Fact: I enjoy turning electronic components and circuits into working projects with code and hardware.
+
+💼 What I Work On
+
+Area
+
+Focus
+
+💻 Programming
+
+C, C++, Java, Python & DSA
+
+📊 Data Analytics
+
+NumPy, Pandas, JupyterLab & Data Visualization
+
+🌐 Web Development
+
+HTML, CSS, JavaScript, React & Node.js
+
+🤖 Embedded Systems
+
+Arduino, ESP32, Embedded C & Sensors
+
+🌐 IoT
+
+Wireless communication, sensor monitoring & automation
+
+🦾 Robotics
+
+RC vehicles, robotic mechanisms & hardware control
+
+🔬 ECE Projects
+
+Electronics, microcontrollers & practical prototyping
+
+🛠️ Technical Arsenal
 
 <div align="center">
 
-#### 💻 Programming Languages & Core DSA
+💻 Programming Languages & Core DSA
+
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css" alt="Programming Languages" />
 </p>
 
-#### 🤖 Embedded Systems, IoT & Hardware
+🤖 Embedded Systems, IoT & Hardware
+
 <p>
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Microcontrollers" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C" />
-  <img src="https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge&logo=dependabot&logoColor=white" alt="Robotics" />
-  <img src="https://img.shields.io/badge/IoT%20Sensors-00A86B?style=for-the-badge&logo=sensortower&logoColor=white" alt="IoT Sensors" />
+  <img src="https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robotics" />
+  <img src="https://img.shields.io/badge/IoT%20Sensors-00A86B?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT Sensors" />
 </p>
 
-#### 📊 Data Analytics, AI & Scientific Computing
+📊 Data Analytics & Scientific Computing
+
 <p>
-  <img src="https://img.shields.io/badge/Jupyter_Lab-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="JupyterLab" />
+  <img src="https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="JupyterLab" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-#### 🌐 Web Technologies & Developer Tools
+🌐 Web Technologies & Developer Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,nodejs,express,git,github,vscode,linux,unity" alt="Web and Tools" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,nodejs,express,git,github,vscode,linux" alt="Web Technologies and Tools" />
 </p>
 
 </div>
 
-<br/>
+💡 Featured Projects
 
-<hr/>
+Project
 
-### 💡 Featured Projects
+Domain
 
-| Project | Domain | Description | Tech Stack | Status |
-| :--- | :---: | :--- | :--- | :---: |
-| 🏎️ **RC Robotic Car** | `Robotics` | Microcontroller-driven remote control rover with wireless communication and motor driver logic. | `Arduino` `C++` `Motor Drivers` `RF/Bluetooth` | 🔨 *In Progress* |
-| 🦾 **Robotic Hand** | `Robotics / ECE` | Biomimetic articulated robotic hand driven by servo motors and sensor feedback. | `Arduino` `Sensors` `C++` `Embedded` | 🔨 *In Progress* |
-| 🌐 **ESP32 & Arduino IoT Hub** | `IoT & Cloud` | Real-time sensor telemetry, wireless device monitoring, and remote IoT controls. | `ESP32` `Arduino` `C++` `MQTT` | 🚀 *Active* |
-| 📊 **Data Analytics & EDA Suite** | `Data Science` | Exploratory data analysis, cleaning, statistical summaries, and visualization in JupyterLab. | `Python` `Pandas` `NumPy` `Jupyter` | 🚀 *Active* |
-| ⚡ **Interactive Web Apps** | `Web Dev` | Clean, responsive web applications built with modern frontend tools. | `React` `JavaScript` `Bootstrap` `CSS3` | 🚀 *Active* |
+Description
 
-<br/>
+Tech Stack
 
-<hr/>
+Status
 
-### 📊 GitHub Analytics & Activity
+🏎️ RC Robotic Car
 
-<br/>
+Robotics
+
+Microcontroller-driven remote-control rover with wireless communication and motor-driver logic.
+
+Arduino C++ Motor Drivers RF/Bluetooth
+
+🔨 In Progress
+
+🦾 Robotic Hand
+
+Robotics / ECE
+
+Articulated robotic hand using servo motors and sensor-based control.
+
+Arduino Sensors C++ Embedded
+
+🔨 In Progress
+
+🌐 ESP32 & Arduino IoT Hub
+
+IoT
+
+Sensor telemetry, wireless device monitoring and remote IoT control concepts.
+
+ESP32 Arduino C++ MQTT
+
+🚀 Active
+
+📊 Data Analytics & EDA Suite
+
+Data Science
+
+Data cleaning, exploratory analysis, statistical summaries and visualization in JupyterLab.
+
+Python Pandas NumPy Jupyter
+
+🚀 Active
+
+⚡ Interactive Web Apps
+
+Web Dev
+
+Responsive web applications built while learning modern frontend development.
+
+React JavaScript Bootstrap CSS3
+
+🚀 Active
+
+📊 GitHub Analytics & Developer Activity
 
 <div align="center">
 
-  <!-- Side-by-Side: Readme Stats & Top Languages -->
-  <a href="https://github.com/koustav0342">
-    <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=koustav0342&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="Koustav's GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/koustav0342">
-    <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=koustav0342&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-  </a>
+📊 GitHub Analytics
 
-  <br/><br/>
+<a href="https://github.com/koustav0342">
+  <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=koustav0342&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Koustav's GitHub Stats" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/koustav0342">
+  <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=koustav0342&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+</a>
 
-  <!-- Contribution Streak -->
-  <a href="https://github.com/koustav0342">
-    <img src="https://streak-stats.demolab.com?user=koustav0342&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-  </a>
+<br/><br/>
+
+🔥 GitHub Contribution Streak
+
+<a href="https://github.com/koustav0342">
+  <img src="https://streak-stats.demolab.com?user=koustav0342&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Contribution Streak" />
+</a>
+
+<br/><br/>
+
+🏆 GitHub Profile Trophy
+
+<a href="https://github.com/koustav0342">
+  <img src="https://github-profile-trophy.vercel.app/?username=koustav0342&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Profile Trophy" />
+</a>
+
+<br/><br/>
+
+🧩 LeetCode Statistics
+
+<a href="https://leetcode.com/koustav56/">
+  <img src="https://leetcard.jacoblin.cool/koustav56?theme=dark&font=Karma&ext=heatmap" alt="Koustav's LeetCode Statistics" />
+</a>
+
+<br/><br/>
+
+📈 Contribution Activity Graph
+
+<a href="https://github.com/koustav0342">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=koustav0342&bg_color=0D1117&color=00D2FF&line=3A7BD5&point=FFFFFF&area=true&hide_border=true" alt="Koustav's Contribution Activity Graph" />
+</a>
 
 </div>
 
-<br/>
-
-<hr/>
-
-### 🤝 Let's Connect & Collaborate!
+📈 Coding & Problem-Solving
 
 <div align="center">
 
-  <p>I am actively seeking opportunities, internships, and collaborative projects in <b>IoT, Robotics, Data Analytics & Software Engineering</b>.</p>
+<a href="https://leetcode.com/koustav56/">
+  <img src="https://img.shields.io/badge/LeetCode-koustav56-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+</a>
+<a href="https://www.codechef.com/users/koustav5666">
+  <img src="https://img.shields.io/badge/CodeChef-koustav5666-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" />
+</a>
+<a href="https://www.hackerrank.com/@koustavchatterj2">
+  <img src="https://img.shields.io/badge/HackerRank-koustavchatterj2-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
+</a>
 
-  <a href="mailto:koustavchatterjee531@gmail.com">
-    <img src="https://img.shields.io/badge/koustavchatterjee531@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 1" />
-  </a>
-  &nbsp;
-  <a href="mailto:ckoustav39@gmail.com">
-    <img src="https://img.shields.io/badge/ckoustav39@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 2" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/koustav-chatterjee" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<br/><br/>
 
-  <br/><br/>
+DSA • Problem Solving • Competitive Programming • Continuous Learning
 
-  <!-- Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:3A7BD5&height=100&section=footer" width="100%" alt="Footer Banner" />
+</div>
+
+🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+<p>
+I'm interested in opportunities and collaborative projects involving
+<b>IoT, Robotics, Embedded Systems, Data Analytics & Software Development</b>.
+</p>
+
+<a href="mailto:koustavchatterjee531@gmail.com">
+  <img src="https://img.shields.io/badge/koustavchatterjee531@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="mailto:ckoustav39@gmail.com">
+  <img src="https://img.shields.io/badge/ckoustav39@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/koustav-chatterjee">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</div>
+
+<div align="center">
+
+🚀 Build • Learn • Experiment • Repeat
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,45:1261A0,75:0B1F3A,100:0D1117&height=110&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
