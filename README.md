@@ -1,20 +1,13 @@
 <div align="center">
 
-  <!-- Dynamic Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30,42&height=220&section=header&text=Koustav%20Chatterjee&fontSize=48&fontAlignY=36&animation=twinkling&desc=ECE%20Student%20%7C%20Embedded%20%26%20IoT%20%7C%20Data%20Analytics%20%7C%20DSA&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- Sleek Gradient Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:3A7BD5&height=140&section=header" width="100%" alt="Header Banner" />
 
-  <br/><br/>
-
-  <!-- Profile Photo (Circular with Cyan Ring) -->
-  <a href="https://linkedin.com/in/koustav-chatterjee">
-    <img src="./assets/avatar.png" width="150" alt="Koustav Chatterjee" />
-  </a>
-
-  <br/><br/>
+  <h1>Hi 👋, I'm Koustav Chatterjee</h1>
 
   <!-- Animated Typing Headline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Koustav+Chatterjee;ECE+Student+%7C+Electronics+%26+Software+Enthusiast+%F0%9F%87%AE%F0%9F%87%B3;Building+RC+Robotic+Cars%2C+Robotic+Hands+%26+ESP32%2FArduino+IoT;Data+Analytics+with+Python%2C+NumPy%2C+Pandas+%26+JupyterLab;DSA+%26+Problem+Solving+in+C%2B%2B%2C+Java%2C+Python;Web+Development+with+JavaScript%2C+React+%26+Node.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=ECE+Student+%7C+Electronics+%26+Software+Enthusiast+%F0%9F%87%AE%F0%9F%87%B3;Building+RC+Robotic+Cars%2C+Robotic+Hands+%26+ESP32%2FArduino+IoT;Data+Analytics+with+Python%2C+NumPy%2C+Pandas+%26+JupyterLab;DSA+%26+Problem+Solving+in+C%2B%2B%2C+Java%2C+Python;Web+Development+with+JavaScript%2C+React+%26+Node.js" alt="Typing SVG" />
   </a>
 
   <br/><br/>
